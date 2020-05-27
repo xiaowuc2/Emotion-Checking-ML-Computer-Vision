@@ -1,5 +1,4 @@
 # Project Name : Emotion-recognition
-
 It's a cool project to work on.
 
 # Table of Content :
